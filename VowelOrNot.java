@@ -10,7 +10,7 @@ class VowelOrNot
 	        System.out.println("its a vowel");
 	    }
 	    else{
-	        System.out.println("not a vowel");
+	        System.out.println("Consonant");
 	    }
 	}
 }
