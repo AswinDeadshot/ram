@@ -14,7 +14,7 @@ public class Alphabet {
         }
         else
         {
-            System.out.println("NO");
+            System.out.println("No");
         }
     }
 }
